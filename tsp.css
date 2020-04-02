@@ -1,0 +1,17 @@
+.jumbotron {
+    background-image: url(https://trash-community.com/wp-content/uploads/youzer/file_5e4dab4bbecc3_thumb.jpg); 
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size:cover;
+    background-color:#grey;
+    height: 350px;
+ }
+ 
+ .containertext-center {
+   margin-bottom: 80px;
+ }
+
+ .packpay
+ {
+     color: white;
+ }
